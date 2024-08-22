@@ -14,6 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![Output Images](https://github.com/moizbhatti112/DEN-recipe_app/blob/main/Screenshot%20(34).png)
-![Output Images](https://github.com/moizbhatti112/DEN-recipe_app/blob/main/Screenshot%20(35).png)
-![Output Images](https://github.com/moizbhatti112/DEN-recipe_app/blob/main/Screenshot%20(36).png)
+
+
+![[image](https://github.com/moizbhatti112/DEN-recipe_app/blob/main/Screenshot%20(34).png) center]]
+![[image](https://github.com/moizbhatti112/DEN-recipe_app/blob/main/Screenshot%20(34).png) center]]
+![[image](https://github.com/moizbhatti112/DEN-recipe_app/blob/main/Screenshot%20(34).png) center]]
